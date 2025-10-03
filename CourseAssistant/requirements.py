@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-pinecone
+langchain-google-genai
+tavily-python
+pypdf
+sentence-transformers
+pinecone-client
